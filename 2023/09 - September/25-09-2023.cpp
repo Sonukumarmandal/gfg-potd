@@ -1,7 +1,7 @@
 /*
 
 Author : Sonu Kumar Mandal
-Date : 09/08/2023
+Date : 25/09/2023
 Problem : Maximum Sum Combination
 Difficulty : Medium
 Problem Link : https://practice.geeksforgeeks.org/problems/maximum-sum-combination/1
